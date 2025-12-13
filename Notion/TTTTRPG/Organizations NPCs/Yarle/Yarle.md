@@ -1,0 +1,1 @@
+It’s Yale university, but for pirates

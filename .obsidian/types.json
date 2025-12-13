@@ -1,0 +1,18 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Link": "text",
+    "Places": "text",
+    "People": "text",
+    "Date": "date",
+    "Status": "text",
+    "Date Created": "datetime",
+    "Created": "datetime",
+    "Score": "text",
+    "Type": "text",
+    "Completed": "date",
+    "Author": "text"
+  }
+}

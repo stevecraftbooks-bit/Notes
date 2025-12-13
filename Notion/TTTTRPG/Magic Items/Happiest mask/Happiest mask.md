@@ -1,0 +1,1 @@
+Whenever the bearer kills a monster they roll a d20. On a 20 a friendly astral copy of the monster is summoned where their corpse was. This new monster has a summoned debuff, where they take damage equal to 10 times their CR at the end of their turn. They take initiative right after the bearer and can be commanded as a bonus action.

@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "6f2ac27886586702",
+    "type": "split",
+    "children": [
+      {
+        "id": "c997019fad2b5c2b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88254ac91752e3dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notion/TTTTRPG/TTTTRPG.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TTTTRPG"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3f098719e9dc314d",
+    "type": "split",
+    "children": [
+      {
+        "id": "216bf889f708e2f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2bd228a663c9307c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6f27de1440ac0367",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ccc9fa49f081bd71",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "76f1fce46098dc85",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f3f2ab8dee9c22f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "feb974be73dbb5e0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notion/TTTTRPG/TTTTRPG.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for TTTTRPG"
+            }
+          },
+          {
+            "id": "47a04a3b81059f30",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notion/TTTTRPG/TTTTRPG.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from TTTTRPG"
+            }
+          },
+          {
+            "id": "ffef40673fad1481",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "91bac812d6801613",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notion/TTTTRPG/TTTTRPG.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of TTTTRPG"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-importer:Open Importer": false
+    }
+  },
+  "active": "88254ac91752e3dc",
+  "lastOpenFiles": [
+    "Notion/TTTTRPG/Organizations NPCs/World Government/World Government.md",
+    "Notion/TTTTRPG/Organizations NPCs/World Government/Agusto Tempest/Agusto Tempest.md",
+    "Notion/TTTTRPG/Organizations NPCs/World Government/Bhante Mori/Bhante Mori.md",
+    "Notion/TTTTRPG/Organizations NPCs/World Government/Agusto Tempest",
+    "Notion/TTTTRPG/Organizations NPCs/World Government/Ichornym Hammerhand/Ichornym Hammerhand.md",
+    "Notion/TTTTRPG/Organizations NPCs/World Government/Bhante Mori",
+    "Notion/TTTTRPG/Organizations NPCs/World Government/Nestor Eucler/Nestor Eucler.md",
+    "Notion/TTTTRPG/Organizations NPCs/World Government/Ichornym Hammerhand",
+    "Notion/TTTTRPG/Organizations NPCs/World Government/Nestor Eucler",
+    "Notion/TTTTRPG/Organizations NPCs/World Government/Norman Regulus/Norman Regulus.md",
+    "Notion/TTTTRPG/Organizations NPCs/World Government/Placeholder 1/Placeholder 1.md",
+    "Notion/TTTTRPG/Organizations NPCs/World Government/Norman Regulus",
+    "Notion/TTTTRPG/Organizations NPCs/World Government/Placeholder 1",
+    "Notion/TTTTRPG/Organizations NPCs/World Government/Placeholder 1 2/Placeholder 1 2.md",
+    "Notion/TTTTRPG/Organizations NPCs/World Government/Placeholder 1 2",
+    "Notion/TTTTRPG/Organizations NPCs/World Government/Placeholder 2/Placeholder 2.md",
+    "Notion/TTTTRPG/Organizations NPCs/World Government/Placeholder 2",
+    "Notion/TTTTRPG/Organizations NPCs/World Government/Placeholder 3/Placeholder 3.md",
+    "Notion/TTTTRPG/Organizations NPCs/World Government/Saul Sawzall/Saul Sawzall.md",
+    "Notion/TTTTRPG/Organizations NPCs/World Government/Placeholder 3",
+    "Notion/TTTTRPG/Systems/Blacksmithing/Augmentation/Augmentation.md",
+    "Notion/TTTTRPG/Organizations NPCs/World Government/Saul Sawzall",
+    "Notion/TTTTRPG/Systems/Alchemy-Alchemical Reactions/Deciding Effects/Deciding Effects.md",
+    "Notion/TTTTRPG/Systems/Artisanship/Mireweave/Mireweave.md",
+    "Notion/TTTTRPG/Classes/Classes.md",
+    "Notion/TTTTRPG/Classes/Alchemist/Alchemist.md",
+    "Notion/TTTTRPG/Classes/Blacksmith/Blacksmith.md",
+    "Notion/TTTTRPG/Classes/Chef/Chef.md",
+    "Notion/TTTTRPG/Classes/Composer/Composer.md",
+    "Notion/TTTTRPG/Classes/Engineer/Engineer.md",
+    "Notion/TTTTRPG/Classes/Gambler/Gambler.md",
+    "Notion/TTTTRPG/Classes/Paladin/Paladin.md",
+    "Notion/TTTTRPG/Classes/Plane-Strider/Plane-Strider.md",
+    "Notion/TTTTRPG/Classes/Ranger/Ranger.md",
+    "Notion/TTTTRPG/Classes/Unemployment/Unemployment.md",
+    "Notion/TTTTRPG/Biomes/Biomes.md",
+    "Movie List.png",
+    "Yearly Goals.png",
+    "Personal Home.jpeg",
+    "IMG_2932.jpeg",
+    "Notion/RIT DND/Stat blocks/IMG_2932.jpeg",
+    "Notion/Dungeons & Dipshits/DnD Damage Types.png",
+    "Notion/RIT DND/IMG_2899.png"
+  ]
+}

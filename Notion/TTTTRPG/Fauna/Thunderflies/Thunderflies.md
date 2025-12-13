@@ -1,0 +1,3 @@
+_Tiny Lightning Elemental_
+
+Thunderflies are moth like creatures that hold small magical charges. They emerge from Mireweave when [[Rain Weavers]] reach an elemental enlightenment. When a group of Thunderflies emerge from their Mireweave close together then their magical charge chains together striking a lightning bolt in that area. While emerging Thunderflies can be dangerous to the locals, it is also something to celebrate as another group of Rain Weavers move on to the next step of their life. Sometimes locals can reason with Thunderflies and harness their magical charge or thunderous abilities for various applications.

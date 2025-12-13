@@ -1,0 +1,3 @@
+_Medium Worm Beast_
+
+Spark worms are worm like creatures that dwell within the sands of the [[Black Desert]]. They have flint-like, cupped scales that help them maneuver through the terrain. When the scales get rubbed against one another they cause a spark which can be done by the worm twitching its body. Due to the cupped nature of the scales the black sand around them gets trapped within. This spark then ignites the sand causing a small, directed combustion giving the creature a boost of speed when needed.
