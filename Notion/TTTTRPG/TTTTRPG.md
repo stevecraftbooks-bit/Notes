@@ -29,6 +29,3 @@ Totally Tubular Table Top Role Playing Game
 ---
 
 [[Magic Items]]
-
-
-This sentence is a test sentence
