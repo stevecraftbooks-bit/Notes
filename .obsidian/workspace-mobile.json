@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notion/TTTTRPG/TTTTRPG.md",
-                "mode": "preview",
+                "file": "Notion/TTTTRPG/Races/Elemental/Elemental.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TTTTRPG"
+              "title": "Elemental"
             }
           }
         ]
@@ -155,11 +155,30 @@
   },
   "active": "8b9bebd52499f5c7",
   "lastOpenFiles": [
-    "Notion/TTTTRPG/Biomes/Biomes.md",
-    "Notion/TTTTRPG/TTTTRPG.md",
-    "README.md",
     "Notion/TTTTRPG/Races/Races.md",
+    "Notion/TTTTRPG/TTTTRPG.md",
+    "Notion/TTTTRPG/Biomes/Biomes.md",
+    "Notion/TTTTRPG/Biomes/Black Desert/Black Desert.md",
+    "Notion/TTTTRPG/Biomes/Sludgelands/Sludgelands.md",
+    "Notion/TTTTRPG/Flora/Flora.md",
+    "Notion/TTTTRPG/Flora/Salix brinebark/Salix brinebark.md",
+    "Notion/TTTTRPG/Magic Items/Magic Items.md",
     "Notion/TTTTRPG/Systems/Systems.md",
-    "Notion/TTTTRPG/Biomes/Black Desert/Black Desert.md"
+    "Notion/TTTTRPG/Systems/Demon Roots/Demon Roots.md",
+    "Notion/TTTTRPG/Systems/Pale Planets/Pale Planets.md",
+    "Notion/TTTTRPG/Systems/Instruments/Instruments.md",
+    "Notion/TTTTRPG/Organizations NPCs/Organizations-NPCs/Organizations-NPCs.md",
+    "Notion/TTTTRPG/Organizations NPCs/Pantheon/Pantheon.md",
+    "Notion/TTTTRPG/Organizations NPCs/World Government/World Government.md",
+    "Notion/TTTTRPG/Organizations NPCs/World Government/Ichornym Hammerhand/Ichornym Hammerhand.md",
+    "Notion/TTTTRPG/Organizations NPCs/World Government/Saul Sawzall/Saul Sawzall.md",
+    "Notion/TTTTRPG/Organizations NPCs/World Government/Nestor Eucler/Nestor Eucler.md",
+    "Notion/TTTTRPG/Organizations NPCs/World Government/Bhante Mori/Bhante Mori.md",
+    "Notion/TTTTRPG/Races/Forgen/Forgen.md",
+    "Notion/TTTTRPG/Races/——/——/——.md",
+    "Notion/TTTTRPG/Races/Elemental/Elemental.md",
+    "Notion/TTTTRPG/Biomes/Cryocrete Mesa/Cryocrete Mesa.md",
+    "Notion/TTTTRPG/Flora/Zice/Zice.md",
+    "README.md"
   ]
 }

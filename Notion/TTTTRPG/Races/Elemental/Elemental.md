@@ -25,3 +25,9 @@
 - It’s harder to communicate with them in these forms as they don’t speak or understand any common language of humanoids.
 
 - Any elemental in these forms tend to be neutral or hostile towards humanoids, they tend to not be friendly to focus on themselves.
+
+---
+
+- Elementals have innate abilities to summon tools/weapons made of their element. This can be done as an accessory for survival or for an aid in offense and defense.
+
+- The tool/weapon is unique to the element and could be unique to the individual elemental as well. They usually stay with only one tool/ weapon rarely changing it.
