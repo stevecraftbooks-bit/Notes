@@ -1,1 +1,12 @@
 - Flighted creature
+- Similar to Vampires
+- Can fly, but turns to stone in the daylight
+- They blood is blue - When drank gives temporary HP
+	- Blood is released when taking slashing damage (can damage self)
+- Have 2 Forms:
+	- Winged form - appears as a dark astral bird big enough for a medium creature to ride
+	- Corporeal form - appears as any other race they want in order to blend in with societies
+- The race is outcasted and known as "life stealers", believed they leech on societies they are part of
+- Although they usually live in high status areas, they mimic commoners to blend in better
+- They are born from starlight when celestial bodies release organic matter (No parents)
+- They mimic standard living to stay hidden, but lack ability to understand true family dynamic

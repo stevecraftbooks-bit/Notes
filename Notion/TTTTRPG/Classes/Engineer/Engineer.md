@@ -1,0 +1,4 @@
+- At later levels should be able to summon a trap that gets bigger as they level up
+- The trap can only be used once before needing repair
+- The trap can hold a creature until release or death
+- Once, the reap could activate teeth to deal 10d10 damage and release its contents

@@ -1,0 +1,9 @@
+- Born from the belief that death is not the end, but rather the beginning
+- Using ancient knoemnb techniques to extract the soul from a dying person and put it within a tinker they can give someone a second chance at life
+- The chassis contains built in weapons:
+	- 9 inch wooden stake gun
+	- Wooden Dowel Railgun
+	- Unstable Tinker Launcher
+	- Sawblade
+- The soul tinker must be upkept annually. For every year of missed upkeep, there is a cumulative 25% chance of spontaneous soul combustion
+- The tinkerborn takes the status of the knoemnb who made them, or the status from their previous life. This decision is up to the knoemnb.
