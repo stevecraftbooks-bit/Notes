@@ -1,0 +1,3 @@
+_Medium Frost Elemental_
+
+Cube-Head Shark are medium fish that are found in larger waters within a [[Cryocrete Mesa]]. Unsurprising to their name, they use magic to create large blocks of ice on their noses which they use instead of teeth to hunt prey. They prey on smaller fish or sometimes crabs using their hard nose to bash any defenses before eating the flesh behind them. They usually throw their prey against the floor or any walls if nearby The sturdiness of the cube can dictate how proficient the elemental is in its medium while the condition of the cube shows its health. A more beaten cube means a recent meal. The cubes are magically repaired by them routinely so it is rare to see one without, unless a recent battle took them farther than expected. 

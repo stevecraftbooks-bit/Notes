@@ -5,8 +5,10 @@
 - [[Zice]]
 
   
-
 # Fauna
+- [[Frost Fin Minnow]]
+- [[Cube-Head Shark]]
+
 
 # Resources
 

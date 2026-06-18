@@ -1,0 +1,5 @@
+_Small Frost Elemental_
+
+Frost Fin Trout are hard small fish that usually swim in school within lakes of a [[Cryocrete Mesa]]. They swim in schools as their small size make them easy prey for larger fish. As an additional defense mechanism they use magic to freeze the water around their scales to create a wall of hard ice around them. More advanced Frost Fin Minnow can create harder barriers around them making them more resistant to prey that try to eat them. As Frost Fin Trout are high in numbers and tend to the lower end of the food chain, they are usually an indication of a beginning stage frost elementals. Any Frost Fin Minnow that grows to a large size would most likely be less defensive or easier to catch as they are ready for a new life as a more versatile frost elemental. 
+
+Frost Fin Trout are caught in large quantities for use as bait, but they are hard to preserve as they can melt easily. They need to be kept chilled until use and are usually more hassle than they are worth.

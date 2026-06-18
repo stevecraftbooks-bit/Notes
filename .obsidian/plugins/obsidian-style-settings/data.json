@@ -8,8 +8,8 @@
   "obsidian-default-theme@@background-modifier-box-shadow@@light": "#000000",
   "obsidian-default-theme@@text-accent@@light": "#FDFFAE",
   "obsidian-default-theme@@text-accent-hover@@light": "#E8EA8E",
-  "obsidian-default-theme@@text-normal@@light": "#FDFFAE",
   "obsidian-default-theme@@interactive-normal@@light": "#FDFFAE",
   "obsidian-default-theme@@text-muted@@light": "#FDFFAE",
-  "obsidian-default-theme@@text-faint@@light": "#DBDD93"
+  "obsidian-default-theme@@text-faint@@light": "#DBDD93",
+  "obsidian-default-theme@@text-normal@@light": "#FDFFAE"
 }
