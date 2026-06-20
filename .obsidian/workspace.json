@@ -8,9 +8,9 @@
         "type": "split",
         "children": [
           {
-            "id": "70dcdfd45aaabb8f",
+            "id": "c740ceaf0c5a4080",
             "type": "split",
-            "dimension": 80.3921568627451,
+            "dimension": 79.58783120706575,
             "children": [
               {
                 "id": "22e65a3396050add",
@@ -29,28 +29,38 @@
                       "icon": "lucide-file",
                       "title": "TTTTRPG"
                     },
-                    "group": "ecd2010664ea57d4"
+                    "group": "44ee035ec794ac6a"
                   }
                 ]
               },
               {
-                "id": "785100c7d582a031",
+                "id": "e7d242267472adb8",
                 "type": "tabs",
                 "children": [
                   {
-                    "id": "93b2fd7e9b49bf27",
+                    "id": "6babbd98e69d37b9",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
                       "state": {
                         "file": "Notion/TTTTRPG/TTTTRPG.md",
                         "mode": "preview",
-                        "source": false
+                        "source": false,
+                        "backlinks": true,
+                        "backlinkOpts": {
+                          "collapseAll": false,
+                          "extraContext": false,
+                          "sortOrder": "alphabetical",
+                          "showSearch": false,
+                          "searchQuery": "",
+                          "backlinkCollapsed": false,
+                          "unlinkedCollapsed": true
+                        }
                       },
                       "icon": "lucide-file",
                       "title": "TTTTRPG"
                     },
-                    "group": "ecd2010664ea57d4"
+                    "group": "44ee035ec794ac6a"
                   }
                 ]
               }
@@ -58,12 +68,12 @@
             "direction": "vertical"
           },
           {
-            "id": "e608a94cd7384ff4",
+            "id": "08b92949e1ff8ee9",
             "type": "tabs",
-            "dimension": 19.607843137254903,
+            "dimension": 20.41216879293425,
             "children": [
               {
-                "id": "8ceb1cb217a7fd02",
+                "id": "2e52fe892ef9f70e",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
@@ -74,7 +84,9 @@
                       "focus": false,
                       "profile": {
                         "args": [],
+                        "environment": [],
                         "executable": "C:\\Program Files\\Git\\bin\\bash.exe",
+                        "followTheme": true,
                         "name": "",
                         "platforms": {
                           "win32": true
@@ -93,7 +105,9 @@
                         "type": "integrated",
                         "useWin32Conhost": true
                       },
-                      "serial": null
+                      "profileSourceId": "aac0ffc4-1b59-47f7-add7-3e6a62c15ca5",
+                      "serial": null,
+                      "userTitle": ""
                     }
                   },
                   "pinned": true,
@@ -168,16 +182,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6f3f2ab8dee9c22f",
+        "id": "089266a67efcd88c",
         "type": "tabs",
         "children": [
           {
-            "id": "feb974be73dbb5e0",
+            "id": "918edb50e75464c0",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notion/TTTTRPG/TTTTRPG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,25 +200,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for TTTTRPG"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "47a04a3b81059f30",
+            "id": "37da4e5217128c64",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notion/TTTTRPG/TTTTRPG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from TTTTRPG"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "ffef40673fad1481",
+            "id": "062da8af64c71bff",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -220,25 +232,24 @@
             }
           },
           {
-            "id": "91bac812d6801613",
+            "id": "bf1d9033b871626a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notion/TTTTRPG/TTTTRPG.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of TTTTRPG"
+              "title": "Outline"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 368.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -251,47 +262,48 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-importer:Open Importer": false,
-      "terminal:Open terminal": false
+      "terminal:Open terminal": false,
+      "quiz-generator:Open generator": false
     }
   },
-  "active": "8ceb1cb217a7fd02",
+  "active": "2e52fe892ef9f70e",
   "lastOpenFiles": [
     "Notion/TTTTRPG/TTTTRPG.md",
-    "Notion/TTTTRPG/Planes of Existence/Planes of Existence.md",
-    "Notion/TTTTRPG/Systems/Artisanship/Artisanship.md",
     "Notion/TTTTRPG/Systems/Artisanship/Mireweave/Mireweave.md",
-    "Notion/TTTTRPG/Systems/Systems.md",
-    "Notion/TTTTRPG/Races/Races.md",
-    "Notion/TTTTRPG/Organizations NPCs/Organizations-NPCs/Organizations-NPCs.md",
     "Notion/TTTTRPG/Fauna/Cube-Head Shark/Cube-Head Shark.md",
-    "README.md",
-    "——.md",
-    "Notion/TTTTRPG/Races/——/——.base",
-    "Notion/TTTTRPG/Races/Chorr/Chorr.md",
-    "Notion/TTTTRPG/Races/Human/Human.md",
-    "Notion/TTTTRPG/Races/——/——/——.md",
-    "Notion/TTTTRPG/Races/——/Untitled.md",
-    "Notion/TTTTRPG/Biomes/Biomes.md",
-    "Notion/TTTTRPG/Biomes/Black Desert/Black Desert.md",
-    "Notion/TTTTRPG/Flora/Cuptus/Cuptus.md",
-    "Notion/TTTTRPG/Fauna/Spark Worms/Spark Worms.md",
     "Notion/TTTTRPG/Biomes/Cryocrete Mesa/Cryocrete Mesa.md",
-    "Notion/TTTTRPG/Classes/Blacksmith/Blacksmith.md",
-    "Notion/TTTTRPG/Fauna/Frost Fin Minnow/Frost Fin Minnow.md",
-    "Notion/TTTTRPG/Races/Elemental/Elemental.md",
-    "Notion/TTTTRPG/Fauna/Cube-Head Shark",
+    "Notion/TTTTRPG/Social Constructs/Social Constructs.md",
+    "Notion/TTTTRPG/Social Constructs/Books/Books.md",
+    "README.md",
+    "Notion/TTTTRPG/Biomes/Biomes.md",
     "Notion/TTTTRPG/Fauna/Fauna.md",
-    "Notion/TTTTRPG/Fauna/Thunderflies/Thunderflies.md",
+    "Notion/TTTTRPG/Fauna/Frost Fin Minnow/Frost Fin Minnow.md",
     "Notion/TTTTRPG/Fauna/Rain Weavers/Rain Weavers.md",
+    "Notion/TTTTRPG/Fauna/Spark Worms/Spark Worms.md",
+    "Notion/TTTTRPG/Fauna/Thunderflies/Thunderflies.md",
+    "Notion/TTTTRPG/Flora/Flora.md",
+    "Notion/TTTTRPG/Languages/Languages.md",
+    "Notion/TTTTRPG/Magic Items/Magic Items.md",
+    "Notion/TTTTRPG/Organizations NPCs/Organizations NPCs.md",
+    "Notion/TTTTRPG/Planes of Existence/Planes of Existence.md",
+    "Notion/TTTTRPG/Races/Races.md",
+    "Notion/TTTTRPG/Systems/Systems.md",
+    "Notion/TTTTRPG/Systems/7AVA Rewards Club/7AVA Rewards Club.md",
+    "Notion/TTTTRPG/Organizations NPCs/Cities-Towns/Sevenava/Sevenava.md",
+    "Notion/TTTTRPG/Systems/Instruments/Instruments.md",
+    "Notion/TTTTRPG/Systems/Artisanship/Artisanship.md",
+    "VaultOperator/Source Template.md",
+    "VaultOperator/Note Template.md",
+    "VaultOperator",
+    "/VaultOperator",
+    "Notion/TTTTRPG/Races/——/——.base",
+    "Notion/TTTTRPG/Fauna/Cube-Head Shark",
     "Notion/TTTTRPG/Fauna/Frost Fin Minnow",
-    "Test.md",
     "New Text Document.txt",
     "Notion/TTTTRPG/Organizations NPCs/World Government/Agusto Tempest",
     "Notion/TTTTRPG/Organizations NPCs/World Government/Bhante Mori",
     "Notion/TTTTRPG/Organizations NPCs/World Government/Ichornym Hammerhand",
     "Notion/TTTTRPG/Organizations NPCs/World Government/Nestor Eucler",
-    "Notion/TTTTRPG/Organizations NPCs/World Government/Norman Regulus",
-    "Notion/TTTTRPG/Organizations NPCs/World Government/Placeholder 1",
     "Movie List.png",
     "Yearly Goals.png",
     "Personal Home.jpeg",
