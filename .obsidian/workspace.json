@@ -10,7 +10,7 @@
           {
             "id": "c740ceaf0c5a4080",
             "type": "split",
-            "dimension": 79.58783120706575,
+            "dimension": 78.5919540229885,
             "children": [
               {
                 "id": "22e65a3396050add",
@@ -46,16 +46,7 @@
                         "file": "Notion/TTTTRPG/TTTTRPG.md",
                         "mode": "preview",
                         "source": false,
-                        "backlinks": true,
-                        "backlinkOpts": {
-                          "collapseAll": false,
-                          "extraContext": false,
-                          "sortOrder": "alphabetical",
-                          "showSearch": false,
-                          "searchQuery": "",
-                          "backlinkCollapsed": false,
-                          "unlinkedCollapsed": true
-                        }
+                        "backlinks": false
                       },
                       "icon": "lucide-file",
                       "title": "TTTTRPG"
@@ -70,7 +61,7 @@
           {
             "id": "08b92949e1ff8ee9",
             "type": "tabs",
-            "dimension": 20.41216879293425,
+            "dimension": 21.408045977011493,
             "children": [
               {
                 "id": "2e52fe892ef9f70e",
@@ -266,8 +257,10 @@
       "quiz-generator:Open generator": false
     }
   },
-  "active": "2e52fe892ef9f70e",
+  "active": "6babbd98e69d37b9",
   "lastOpenFiles": [
+    "Notion/TTTTRPG/Organizations NPCs/Organizations-NPCs/Organizations-NPCs.md",
+    "Notion/TTTTRPG/Organizations NPCs/World Government/World Government.md",
     "Notion/TTTTRPG/TTTTRPG.md",
     "Notion/TTTTRPG/Systems/Artisanship/Mireweave/Mireweave.md",
     "Notion/TTTTRPG/Fauna/Cube-Head Shark/Cube-Head Shark.md",
@@ -292,8 +285,6 @@
     "Notion/TTTTRPG/Organizations NPCs/Cities-Towns/Sevenava/Sevenava.md",
     "Notion/TTTTRPG/Systems/Instruments/Instruments.md",
     "Notion/TTTTRPG/Systems/Artisanship/Artisanship.md",
-    "VaultOperator/Source Template.md",
-    "VaultOperator/Note Template.md",
     "VaultOperator",
     "/VaultOperator",
     "Notion/TTTTRPG/Races/——/——.base",
