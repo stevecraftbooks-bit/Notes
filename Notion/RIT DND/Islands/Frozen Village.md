@@ -1,0 +1,6 @@
+---
+
+---
+()
+
+![[Frozen Village synced block]]

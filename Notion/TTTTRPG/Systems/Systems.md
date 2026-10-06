@@ -1,4 +1,4 @@
-[[Spells]]
+[[Notion/TTTTRPG/Systems/Spells/Spells]]
 
 [[Rituals]]
 

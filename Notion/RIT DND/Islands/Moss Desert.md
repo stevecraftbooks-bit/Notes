@@ -1,0 +1,6 @@
+---
+
+---
+()
+
+![[Moss Desert synced block]]

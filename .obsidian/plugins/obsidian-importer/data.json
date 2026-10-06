@@ -1,0 +1,23 @@
+{
+  "secrets": {
+    "notion-api": "personal"
+  },
+  "outputLocations": {},
+  "outputSettings": {
+    "notion-api": {
+      "folder": "Notion",
+      "attachments": {
+        "mode": "vault",
+        "path": ""
+      },
+      "duplicates": "skip",
+      "saveSourceId": false,
+      "idProperty": "notion-id",
+      "template": "",
+      "titleTemplate": "{{title}}"
+    }
+  },
+  "onenoteAttachments": {},
+  "sourceFolders": {},
+  "lastSourceFolder": ""
+}
