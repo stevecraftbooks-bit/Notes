@@ -1,6 +1,6 @@
 [[Hunting]]
 
-[[Fishing]]
+[[Notion/TTTTRPG/Systems/Cooking/Fishing/Fishing]]
 
 # Wild ingredients
 

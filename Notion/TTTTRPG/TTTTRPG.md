@@ -28,4 +28,4 @@ Totally Tubular Table Top Role Playing Game
 
 ---
 
-[[Magic Items]]
+[[Notion/TTTTRPG/Magic Items/Magic Items]]

@@ -1,9 +1,9 @@
-[[Cities-Towns]]
+[[Notion/DND planning/Dungeons & Dipshits/Cities-Towns/Cities-Towns]]
 
 [[Yarle]]
 
   
 
-[[World Government]]
+[[Notion/TTTTRPG/Organizations NPCs/World Government/World Government]]
 
 [[Pantheon]]
